@@ -1,5 +1,5 @@
 <div class="border border-black-fade bg-blue-light p-2 mb-2">
-  # data-qa attributes
+  data-qa attributes
 </div>
 ![data-qa](images/data-qa.png)
 
