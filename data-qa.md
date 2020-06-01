@@ -1,4 +1,5 @@
 # `data-qa` attributes
+![data-qa](images/data-qa.png)
 
 ## Why add data-qa attributes?
 Everyone who is familiar with scripting Selenium automation test know that the
