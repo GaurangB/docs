@@ -12,8 +12,9 @@ testing purpose, you can make your tests more stable even when DOM changes and
 the values of `id` or `class` or any other attributes needs to change.
 
 
-## Recommendations
-Please follow the recommendations below to add attribute values. This will help with identifying locators consistently and generating automation code much easier through the chrome extension.
+## Consistency is Key
+![Consistency is Key](images/consistency.jpg)
+To be consistent through out the app, please follow the recommendations below to add attribute values. This will help with identifying locators consistently and generating automation code much easier through the chrome extension.
 
 ```html
 | Element Type  	| Value Prefix 	| Example                            	|
