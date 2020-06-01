@@ -1,13 +1,13 @@
-<div class="border border-black-fade bg-blue-light p-2 mb-2">
-  data-qa attributes
-</div>
+# data-qa attributes
 ![data-qa](images/data-qa.png)
+
 
 ## Why add data-qa attributes?
 Everyone who is familiar with scripting Selenium automation test know that the
 biggest pain in the process is to find a stable unique locator on a page without
 writing a long xpath or css selector. Once the scripts are written, if for any
 reason those locators change on the DOM, your tests will break.
+
 
 ### Solution -  add data-qa attributes to the elements.
 HTML 5 allows attributes to start with `data-` prefixes for passing data values. By adding these custom `data-qa` attributes and values that are used just for the
@@ -18,6 +18,7 @@ the values of `id` or `class` or any other attributes needs to change.
 ## Consistency is Key
 ![Consistency is Key](images/consistency.jpg)
 To be consistent through out the app, please follow the recommendations below to add attribute values. This will help with identifying locators consistently and generating automation code much easier through the chrome extension.
+
 
 ```html
 | Element Type  	| Value Prefix 	| Example                            	|
