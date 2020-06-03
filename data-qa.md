@@ -21,15 +21,15 @@ To be consistent through out the app, please follow the recommendations below to
 
 
 ```html
-| Element Type  	| Value Prefix 	| Example                            	|
-|---------------	|--------------	|------------------------------------	|
-| label         	| lbl          	| <label data-qa="lblInfoHeading">     	|
-| button        	| btn          	| <button data-qa="btnSubmit">         	|
-| link       	    | lnk          	| <div data-qa="lnkAbout">         	    |
-| input         	| input        	| <input data-qa="inputPassword">      	|
-| checkbox      	| chk          	| <checkbox data-qa="chkFulltime">     	|
-| dropdown      	| drp          	| <dropdown data-qa="drpSelectStatus"> 	|
-| textarea      	| txt          	| <textarea data-qa="txtDescription">  	|
-| error message 	| err          	| <div data-qa="errNoAccess">          	|
-| message       	| msg          	| <div data-qa="msgSubmitted">         	|
+| Element Type  | Value Prefix | Example                            |
+|---------------|--------------|------------------------------------|
+| label         | lbl          | <label data-qa=lblInfoHeading>     |
+| link          | lnk          | <label data-qa=lnkAbout>           |
+| button        | btn          | <button data-qa=btnSubmit>         |
+| input         | input        | <input data-qa=inputPassword>      |
+| checkbox      | chk          | <checkbox data-qa=chkFulltime>     |
+| dropdown      | drp          | <dropdown data-qa=drpSelectStatus> |
+| textarea      | txt          | <textarea data-qa=txtDescription>  |
+| error message | err          | <div data-qa=errNoAccess>          |
+| message       | msg          | <div data-qa=msgSubmitted>         |
 ```
