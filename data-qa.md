@@ -25,6 +25,7 @@ To be consistent through out the app, please follow the recommendations below to
 |---------------	|--------------	|------------------------------------	|
 | label         	| lbl          	| <label data-qa="lblInfoHeading">     	|
 | button        	| btn          	| <button data-qa="btnSubmit">         	|
+| link       	    | lnk          	| <div data-qa="lnkAbout">         	    |
 | input         	| input        	| <input data-qa="inputPassword">      	|
 | checkbox      	| chk          	| <checkbox data-qa="chkFulltime">     	|
 | dropdown      	| drp          	| <dropdown data-qa="drpSelectStatus"> 	|
